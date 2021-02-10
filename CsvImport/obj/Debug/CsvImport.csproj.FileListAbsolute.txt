@@ -1,0 +1,7 @@
+C:\Users\robik\source\repos\CsvImport\CsvImport\bin\Debug\CsvImport.exe.config
+C:\Users\robik\source\repos\CsvImport\CsvImport\bin\Debug\CsvImport.exe
+C:\Users\robik\source\repos\CsvImport\CsvImport\bin\Debug\CsvImport.pdb
+C:\Users\robik\source\repos\CsvImport\CsvImport\obj\Debug\CsvImport.csprojAssemblyReference.cache
+C:\Users\robik\source\repos\CsvImport\CsvImport\obj\Debug\CsvImport.csproj.CoreCompileInputs.cache
+C:\Users\robik\source\repos\CsvImport\CsvImport\obj\Debug\CsvImport.exe
+C:\Users\robik\source\repos\CsvImport\CsvImport\obj\Debug\CsvImport.pdb
